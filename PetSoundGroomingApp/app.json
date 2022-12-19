@@ -1,0 +1,34 @@
+{
+"id": "61F9980B-B90A-4F05-B141-54E4613AB861",
+"name": "Pet Sounds Grooming",
+"publisher": "Hougaard",
+"version": "1.0.0.63",
+"runtime": "8.0",
+"target": "Cloud",
+"platform": "1.0.0.0",
+"application": "19.0.0.0",
+"resourceExposurePolicy": {
+  "allowDebugging": true,
+  "allowDownloadingSource": true,
+  "includeSourceInSymbolFile": true
+},
+"dependencies": [
+  {
+    "id": "adc18994-073b-4840-a144-2a5e3a0d9d1e",
+    "name": "DIOT - Localization for Mexico",
+    "version": "21.2.49946.50300",
+    "publisher": "Microsoft"
+  },
+  {
+    "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+    "name": "Base Application",
+    "version": "21.2.49946.51032",
+    "publisher": "Microsoft"
+  }],
+"idRanges": [
+  {
+    "from": 63200,
+    "to": 64200
+  }
+]
+}
