@@ -1,4 +1,4 @@
-tableextension 63206 "PSGSales_Invoice_Header" extends "Sales Invoice Header"
+tableextension 63207 "PSGSales_Invoice_Header" extends "Sales Invoice Header"
 {
 
     fields

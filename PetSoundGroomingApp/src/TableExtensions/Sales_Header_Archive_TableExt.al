@@ -1,4 +1,4 @@
-tableextension 63208 "PSGSales_Header_Archive" extends "Sales Header Archive"
+tableextension 63209 "PSGSales_Header_Archive" extends "Sales Header Archive"
 {
 
     fields

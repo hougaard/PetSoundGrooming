@@ -111,6 +111,7 @@ codeunit 63200 "Field Transfers Mgt. PSG"
           Customer: Record Customer;
       begin
           if Customer.GET(Rec."Sell-to Customer No.") then begin
+        "Rec"."Mikedemo" := "Customer"."Mikedemo";
 
           end;
       end;

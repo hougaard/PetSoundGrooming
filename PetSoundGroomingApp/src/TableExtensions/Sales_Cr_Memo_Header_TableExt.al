@@ -1,4 +1,4 @@
-tableextension 63207 "PSGSales_Cr_Memo_Header" extends "Sales Cr.Memo Header"
+tableextension 63208 "PSGSales_Cr_Memo_Header" extends "Sales Cr.Memo Header"
 {
 
     fields
