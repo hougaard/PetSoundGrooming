@@ -1,4 +1,4 @@
-tableextension 63205 "PSGGen__Journal_Line" extends "Gen. Journal Line"
+tableextension 63204 "PSGGen__Journal_Line" extends "Gen. Journal Line"
 {
 
     fields

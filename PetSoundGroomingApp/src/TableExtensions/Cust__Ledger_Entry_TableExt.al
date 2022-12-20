@@ -1,4 +1,4 @@
-tableextension 63203 "PSGCust__Ledger_Entry" extends "Cust. Ledger Entry"
+tableextension 63202 "PSGCust__Ledger_Entry" extends "Cust. Ledger Entry"
 {
 
     fields

@@ -2,13 +2,6 @@ pageextension 63202 "PSGCustomer_List" extends "Customer List"
 {
     layout
     {
-        AddLast("Control1")
-        {
-            field("Mikedemo_PSG"; Rec."Mikedemo")
-            {
-                ApplicationArea = all;
-            }
-        }
 
         addfirst(factboxes)
         {

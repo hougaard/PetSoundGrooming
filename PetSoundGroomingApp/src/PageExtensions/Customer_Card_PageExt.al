@@ -9,13 +9,6 @@ pageextension 63201 "PSGCustomer_Card" extends "Customer Card"
                 ApplicationArea = all;
             }
         }
-        AddAfter("Address")
-        {
-            field("Mikedemo_PSG"; Rec."Mikedemo")
-            {
-                ApplicationArea = all;
-            }
-        }
 
         addfirst(factboxes)
         {

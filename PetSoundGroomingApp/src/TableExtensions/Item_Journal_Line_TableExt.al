@@ -1,4 +1,4 @@
-tableextension 63206 "PSGItem_Journal_Line" extends "Item Journal Line"
+tableextension 63205 "PSGItem_Journal_Line" extends "Item Journal Line"
 {
 
     fields

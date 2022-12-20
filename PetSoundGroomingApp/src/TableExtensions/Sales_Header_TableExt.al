@@ -1,4 +1,4 @@
-tableextension 63204 "PSGSales_Header" extends "Sales Header"
+tableextension 63203 "PSGSales_Header" extends "Sales Header"
 {
 
     fields
@@ -8,11 +8,6 @@ tableextension 63204 "PSGSales_Header" extends "Sales Header"
             Caption = 'Pet';
             DataClassification = ToBeClassified;
             TableRelation = "PetPSG"."PetNo";
-        }
-        field(63201;"Mikedemo"; Text[45])
-        {
-            Caption = 'Mike Demo';
-            DataClassification = ToBeClassified;
         }
 
     }
